@@ -1,0 +1,10 @@
+[user]
+	name = Mathias Bosman
+	email = 436498+mathiasbosman@users.noreply.github.com
+	signingKey = SIGNING_KEY_HERE
+[core]
+	autocrlf = input
+[comit]
+	gpgsign = true
+[commit]
+	gpgSign = true

@@ -1,0 +1,2 @@
+# Clear downloads older as 5 days
+find ~/Downloads/ -mindepth 1 -mtime +5 -delete
